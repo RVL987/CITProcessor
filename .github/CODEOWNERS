@@ -1,0 +1,5 @@
+# SystemVerilog files
+*.sv @RVL987
+
+# GitHub Actions workflows
+.github/workflows/* @Yugawathi123
